@@ -1,1 +1,0 @@
-# QuakeLive-config
